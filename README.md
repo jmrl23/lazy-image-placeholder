@@ -7,5 +7,5 @@ Generates low quality image placeholder
 ## Usage
 
 ```http
-curl -X GET https://lazy-image-placeholder.herokuapp.com/?src={{image_link}}
+curl -X GET https://tough-bull-battledress.cyclic.app/?src={{image_link}}
 ```
